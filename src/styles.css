@@ -1,1 +1,6 @@
-/* You can add global styles to this file, and also import other style files */
+@import url("./assets/css/animated.css");
+@import url("./assets/css/fontawesome.css");
+@import url("./assets/css/owl.css");
+@import url("./assets/css/templatemo-space-dynamic.css");
+@import url("./vendor/bootstrap/css/bootstrap.min.css");
+@import url("/node_modules/bootstrap/dist/css/bootstrap.min.css");

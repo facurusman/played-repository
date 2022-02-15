@@ -27,9 +27,27 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+
+
+              "src/assets/css/animated.css",
+              "src/assets/css/fontawesome.css",
+              "src/assets/css/owl.css",
+              "src/assets/css/templatemo-space-dynamic.css",
+              "src/vendor/bootstrap/css/bootstrap.min.css",
+
+
+              "node_modules/bootstrap/dist/css/bootstrap.min.css"
+
+
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/jquery/dist/jquery.min.js",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "node_modules/owl-carousel/owl-carousel/owl.carousel.min.js",
+              "node_modules/animation/animation.browser.min.js",
+              "node_modules/imagesloaded/imagesloaded.pkgd.min.js"
+            ]
           },
           "configurations": {
             "production": {
